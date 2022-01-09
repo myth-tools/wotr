@@ -1,6 +1,3 @@
-@angular/animations
-MIT
-
 @angular/common
 MIT
 
@@ -8,6 +5,9 @@ MIT
 MIT
 
 @angular/platform-browser
+MIT
+
+@angular/router
 MIT
 
 rxjs
